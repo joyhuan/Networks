@@ -85,6 +85,10 @@ A modem is what brings the internet into your home/business
 - Router 
   - Business router vs Small office/home office router 
   - A router is waht routes or passes your internet connection to all of you devices 
+  - Cable Modem (cable televation eg. comcast)
+  - DSL Modem (phone line eg. AT&T)
+  
+- A modem/router device would have a modem with a built-in wireless router, in one device   
   
 ## RAM 
 Random Access Memory
@@ -157,3 +161,39 @@ ECC - Error Correcting Code
   - Makes a correction if it needs to 
   - Non ECC 8 Memory; Chips ECC 9 Memory
   - Mostly used in servers 
+  
+## Hotspot 
+Wifi Router or 
+
+Wireless Access Point 
+
+Internet Service Provider 
+
+A hotspot is a location
+
+## RAID 
+Storage is another very important part of fault tolerace
+
+Data loss prevention(In case of disk failuure)
+
+RAID(Redundant Array of Independent Disks)
+- RAID 0
+  - Not fault tolerant 
+  - Incoming data is 'striped' across multiple disks 
+  - Only reason wants to use is speed 
+- RAID 1
+  - Fault tolerant 
+  - Each disk has the same data 
+- RAID 5
+  - Requires 3 or more disks 
+  - Most common setup used (fast and can store lots of data)
+  - Data is 'sriped' across multiple disks along with parity 
+  - The equivalent of an entire disk is used to store parity 
+- RAID 10 
+  - Combines RAID 1 with RAID 0
+  - needs minimum of 4 disks 
+  - Benefits from the fault tolerance of RAID 1 and the speed of RAID 0
+  - Can only use 50% for data storage 
+
+## Telnet 
+A terminal emulation progarm that is used to access remote serverse 
