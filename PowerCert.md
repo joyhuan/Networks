@@ -196,4 +196,77 @@ RAID(Redundant Array of Independent Disks)
   - Can only use 50% for data storage 
 
 ## Telnet 
-A terminal emulation progarm that is used to access remote serverse 
+Teletype Network 
+
+Developed in 1969 (developed before internet)
+
+All commands are in clear text 
+
+No encryption 
+
+A terminal emulation progarm that is used to access remote servers 
+
+Also used to test ports 
+
+Command line tool 
+
+No graphical user interface 
+
+All commands are sent by keyboard 
+
+It's fast 
+Telnet may have to be used when working with older equipement 
+
+- SSH secure shell 
+SSH protects the data from being attacked or stolen 
+  - Encrypts the data 
+  - Provides passwork and public key authentication 
+
+## Firewall
+Firewall is a system that is designed to prevent unauthorized access from entering a private network. 
+
+Creates a safety barrier between a private network and the public internet
+
+Especially importatnt to large organizations 
+
+A network firewall and a structure firewall work in a similar way 
+
+Rules: Access Control List 
+
+Firewall rules can be based on: 
+- IP addresses 
+- Domain names 
+- Protocols 
+- Programs 
+- Ports 
+- Key words 
+
+Types
+- Host-based firewall 
+  - Software firewall that is installed on a computer 
+  - Protects that computer only 
+  - Zone Alarm is a popular 3rd party host-based firewall. 
+  - A lot of antivirus programs come with a host-based firewall. 
+- Network-based firewall
+  - Combination of hardware & software 
+  - Protects an entire network 
+  
+- Stand-alone firewall/ Routers have a built-in firewall/ Cloud firewall 
+
+## Ethernet Cables, UTP vs STP, Straight vs Crossover, CAT 5,5e,6,7,8 Network Cables
+Twisted Pair Cable 
+- Unshielded Twisted Pair 
+  - UTP consists of 4 pairs of color-coded wires twisted around each other 
+  - The wires are twisted to prevent electromagnetic interference (crosstalk)
+  - Most commonly used 
+- Shielded Twisted Pair 
+  - STP has a foil shield that covers the wires 
+  - The foil shield adds a layer of protection against electromagnetic interference leaking into and out of the cable. 
+  - Used in industry, not so common in home/business
+  
+- The most common types of twisted pair cables that are used in a LAN are: 
+  - Straight (patch) cable
+  - Crossover cable 
+  - 568A 568B
+  - A straight(patch) cable is when both ends of a cable are wired using the same standard 
+    - The most common type of ethernet cable that's used on a LAN
