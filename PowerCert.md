@@ -270,3 +270,19 @@ Twisted Pair Cable
   - 568A 568B
   - A straight(patch) cable is when both ends of a cable are wired using the same standard 
     - The most common type of ethernet cable that's used on a LAN
+
+## What is a Proxy Server? 
+Retrieves data on the internet on behalf of a user 
+
+Proxy benefits:
+- Privacy - allows you to surf the internet anonymously (Without using a proxy, your public IP address is visible)
+- Speed  
+- Saves bandwidth
+- Activity logging 
+- A proxy server cannot encrypt data 
+  - VPN(Virtual Private Network)
+  
+## SSL, TLS, HTTP, HTTPS Explained
+- HTTP (Hypertext transfer protocol)
+  - The protocol that is used for viewing web pages 
+  
