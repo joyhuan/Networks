@@ -285,4 +285,76 @@ Proxy benefits:
 ## SSL, TLS, HTTP, HTTPS Explained
 - HTTP (Hypertext transfer protocol)
   - The protocol that is used for viewing web pages 
+  - In standard HTTP, all info is sent in clear text
+  - Vulnerable to hackers 
   
+- HTTPS (Secure hypertext transfer protocol)
+  - Encrypts the data that is being retrieved by HTTP 
+  - Uses encryption algorithms to scramble the data that's being transferred 
+  
+- SSL (Secure Sockets Layer)
+  - Protocol that's used to ensure security on the internet
+  - Uses public key encryption to secure data 
+  - An SSL certificate is used to authenticate the identity of a website 
+  
+- TLS (Transport Layer Security)
+  - The latest industry standard cryptographic protocol 
+  - The successor to SSL 
+  - Authenticates the server, client, and encrypts the data 
+  
+## HDMI, DisplayPort, DVI, VGA, Thunderbolt - Video Port Comparison 
+- VGA 
+  - Video Graphics Array 
+  - Older technology - developed in 1987 
+  - Has 15 pins - divided into 3 rows 
+  - Only carries analog data 
+  - End adapter will typically have a blue color 
+  - Was used on CRT monitors 
+  - Can still be found on new equipment 
+  
+- DVI 
+  - Digital Visual Interface 
+  - Succeeded the VGA port
+  - Developed in 1999 
+  - Designed to provide uncomproseed, high-quality video to LCD monitors 
+  - DVI - A Used to send analog signals only 
+  - DIV - D Used to send digital signals only 
+  - DVI - I Used to send both analog and digital signals 
+  - Dual link DVI has a max resolution of 2560 * 1600 
+  - Single link DVI has a max resolution of 1920 * 1200 
+  
+- HDMI 
+  - High Definition Multimedia Interface 
+  - Has a broad range of use in electronic products 
+  - Dominant Vidio Port Today 
+  - Develped in 2002 
+  - Designed for transmitting uncompressed video & audio through a single cable 
+  - In 2009, HDMI 1.4 was released 
+    - Added network communication 
+    - Sends and receives data at 100 Mbit/s Ethernet 
+    - 4K video at 30 Hz 
+  - In 2017, HDMI 2.1 was released 
+    - Higher resolutions & refresh rates 
+    - 4K video at 120 Hz 
+    - 8K video at 60 Hz 
+    - 10K video for commercial A/V systems and specialty usages 
+    
+- DisplayPort 
+  - Debuted in 2006
+  - Developed by VESA (Video Electronics Standard Association)
+  - Primarily used for video 
+  - Can be used to carry USB & audio data 
+  - High performance interface 
+  - Can also connect to older ports by using adapters 
+  - Has multi-monitor capability 
+  - Allows the use of multiple monitors in a daisy chain configuration 
+  - Has a locking mechanism that keeps the cable locked in place 
+  - Royalty free 
+  - March 2016, DisplayPort 1.4 was released 
+    - Max resolution of 8K at 60 Hz 
+- Thunderbolt 
+  - High speed tech interface that outputs one serial signal from a combination of PCI express and the DisplayPort 
+  - Can daisy chain up to 6 devices 
+  - Released in 2011 
+  - Version 1 & 2 Uses mini DisplayPort 
+  - Version 3 Used USB type-C connector 
